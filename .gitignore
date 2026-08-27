@@ -447,3 +447,4 @@ MANIFEST
 # Specific files
 scripts/dados_alura.py
 scripts/dados_meteorologicos_DAG.py
+agents.md
