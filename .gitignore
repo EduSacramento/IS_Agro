@@ -232,7 +232,9 @@ _pkginfo.txt
 # Others
 ClientBin/
 database/
-indicador_CF_FDS_colhida_300823/
+databases/
+indicador_CF_FDS_colhida/
+FDS_colhida_versao1/
 ~$*
 *~
 *.dbmdl
@@ -441,3 +443,8 @@ MANIFEST
 *.xls
 *.xlsx
 *.csv
+
+# Specific files
+scripts/dados_alura.py
+scripts/dados_meteorologicos_DAG.py
+agents.md
